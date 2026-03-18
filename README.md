@@ -1,7 +1,7 @@
 # Hi there 👋, My name is Pratiksha Naik
 ## A Data Enthusiast
 
-🚀 Data and Diagnostic Engineer | Python • SQL • Power BI
+🚀 Python • SQL • Power BI
 
 Data enthusiast focused on converting raw data into actionable insights. Skilled in building reliable data pipelines, optimizing databases, and delivering impactful dashboards that support data-driven decisions. 🤖 Let’s make data work smarter. ✨
 <!--
